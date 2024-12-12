@@ -1,62 +1,20 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Страница — 1" id="tnExFFJH4bviw5SdK5DE">
-    <mxGraphModel dx="1595" dy="1082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1197" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="My_ant0x71E1CWfw1F6z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iRgumTczw0-v8ycyqag1-1" target="iRgumTczw0-v8ycyqag1-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRgumTczw0-v8ycyqag1-1" target="iRgumTczw0-v8ycyqag1-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRgumTczw0-v8ycyqag1-1" target="My_ant0x71E1CWfw1F6z-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="202" y="79" />
-              <mxPoint x="448" y="79" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRgumTczw0-v8ycyqag1-1" target="My_ant0x71E1CWfw1F6z-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="202" y="79" />
-              <mxPoint x="574" y="79" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRgumTczw0-v8ycyqag1-1" target="iRgumTczw0-v8ycyqag1-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRgumTczw0-v8ycyqag1-1" target="My_ant0x71E1CWfw1F6z-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="202" y="79" />
-              <mxPoint x="-44" y="79" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iRgumTczw0-v8ycyqag1-1" value="Модуль входа" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iRgumTczw0-v8ycyqag1-1" value="Модуль входа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="-4" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iRgumTczw0-v8ycyqag1-2" value="Модуль оформления заказов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="142" y="178" width="120" height="60" as="geometry" />
+        <mxCell id="iRgumTczw0-v8ycyqag1-2" value="Модуль оформления заказов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="203" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iRgumTczw0-v8ycyqag1-3" value="Модуль управления организациями" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="103" width="120" height="60" as="geometry" />
+        <mxCell id="iRgumTczw0-v8ycyqag1-3" value="Модуль управления организациями" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iRgumTczw0-v8ycyqag1-4" value="Модуль управления заказами" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="22" y="103" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-1" value="Модуль управления клиентами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-104" y="103" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-2" value="Модуль управления отчетами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="388" y="103" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="My_ant0x71E1CWfw1F6z-3" value="Модуль управления сотрудниками" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="103" width="120" height="60" as="geometry" />
+        <mxCell id="iRgumTczw0-v8ycyqag1-4" value="Модуль управления заказами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
